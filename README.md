@@ -3,7 +3,7 @@
 
 I’m a recent IT graduate who enjoys building things and figuring out how systems work behind the scenes. I’ve worked a bit with software development, databases, and also some support style work through real jobs.
 
-Most of my projects here come from university work and small builds where I was learning how everything fits together.
+Most of my projects experience come from university work and small builds where I was learning how everything fits together.
 
 ---
 
